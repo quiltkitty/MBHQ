@@ -1,0 +1,776 @@
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:25:27) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.3ms)
+Completed in 39ms (View: 33 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:28:05) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 10ms (View: 8 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:31:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.3ms)
+Completed in 6ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:40:05) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.6ms)
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:40:19) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.8ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:43:05) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.6ms)
+Completed in 6ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:45:38) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.6ms)
+Completed in 30ms (View: 28 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:45:45) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:46:00) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:46:08) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 3ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:46:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 3ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-07 15:46:52) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/sample_menu.gif" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:47:39) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-07 15:47:39) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/sample_menu.gif" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:48:33) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-07 15:48:33) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/sample_menu.gif" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:49:02) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:49:10) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:49:15) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:49:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.5ms)
+Completed in 6ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:49:54) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:50:07) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:50:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:50:33) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:50:40) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 3ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:50:51) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:51:02) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:51:46) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 3ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:52:06) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 3ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:52:18) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:53:43) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_menu (0.2ms)
+Completed in 5ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:56:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.3ms)
+Rendered home/_menu (0.2ms)
+Rendered home/_menu (0.2ms)
+Completed in 10ms (View: 8 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:57:20) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.2ms)
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.2ms)
+Completed in 7ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:57:30) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.2ms)
+Completed in 7ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:59:28) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (1.2ms)
+Completed in 7ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 15:59:50) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:00:05) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:00:09) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:00:37) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:03:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+
+ActionView::TemplateError (No expansion found for :rounded_corners) on line #9 of app/views/layouts/application.html.erb:
+6: <%= stylesheet_link_tag 'mbhq' %>
+7: 
+8: <%= javascript_include_tag :defaults %>
+9: <%= javascript_include_tag :rounded_corners %>
+10: <%=@content_for_page_javascript %>
+11: 
+12: </head>
+
+    app/views/layouts/application.html.erb:9
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    -e:2:in `load'
+    -e:2
+
+Rendered rescues/_trace (58.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:04:08) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (1.2ms)
+Completed in 11ms (View: 10 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:04:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 10ms (View: 9 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:08:45) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 8ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:11:55) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (1.2ms)
+Completed in 8ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:12:20) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 8ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:13:19) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:13:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:14:11) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:15:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:18:39) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:20:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:27:07) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (1.1ms)
+Completed in 10ms (View: 9 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:27:49) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:27:51) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:28:03) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:28:19) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:28:42) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:28:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:29:10) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:29:23) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:29:29) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:29:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:30:06) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:30:15) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:32:46) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:32:50) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:32:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:33:04) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:33:14) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:33:20) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 31ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:33:28) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.8ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:33:31) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:33:40) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:34:23) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (22.6ms)
+Rendered home/_menu (1.0ms)
+Completed in 28ms (View: 26 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:34:41) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:34:47) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:34:57) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:35:20) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:35:29) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:35:31) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:35:43) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:35:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:36:19) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:37:47) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 7ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:38:09) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:38:21) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 7ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:38:37) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 7ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:39:01) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.4ms)
+Rendered home/_menu (0.6ms)
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:39:27) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:40:22) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:40:42) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:40:55) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-07 16:41:11) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]

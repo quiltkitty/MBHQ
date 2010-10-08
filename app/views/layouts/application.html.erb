@@ -1,0 +1,17 @@
+<HTML>
+<head>
+<title><%= @title %></title>
+<%=@content_for_page_stylesheets %>
+
+<%= stylesheet_link_tag 'mbhq' %>
+
+<%= javascript_include_tag :defaults %>
+<%=@content_for_page_javascript %>
+
+</head>
+<BODY>
+	<%= render :partial => 'home/header' %>
+	<%= render :partial => 'home/menu' %>
+	<%=@content_for_layout %>
+</BODY>
+</HTML>

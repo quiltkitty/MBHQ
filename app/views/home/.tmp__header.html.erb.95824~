@@ -1,0 +1,4 @@
+<div id="header">
+<%= @pagetitle %>
+</div>
+<div style="clear: both;"> </div>
