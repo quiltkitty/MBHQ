@@ -774,3 +774,43 @@ Rendering home/index
 Rendered home/_header (0.1ms)
 Rendered home/_menu (0.6ms)
 Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-11-11 09:16:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.6ms)
+Rendered home/_menu (1.5ms)
+Completed in 36ms (View: 35 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-11-11 09:16:48) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.8ms)
+Completed in 5ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-11-11 09:16:59) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-11-11 09:17:08) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.6ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-11-11 09:17:13) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Rendered home/_header (0.1ms)
+Rendered home/_menu (0.7ms)
+Completed in 4ms (View: 3 | 200 OK [http://localhost/]

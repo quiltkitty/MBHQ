@@ -14,7 +14,7 @@ body {
 }
 
 #menu {
-	width: 182px;
+	width: 160px;
 	border: 1px solid black;
 	display: block;
 	float: left;
@@ -22,8 +22,8 @@ body {
 
 .item {
 	width: inherit;
-	height: 72px;
-	background-image: url("/images/sample_menu.gif");
+	height: 60px;
+	background-image: url("/images/blue_menu.gif");
 	text-align: center;
 	display: block;
 }
