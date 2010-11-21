@@ -1,0 +1,7 @@
+<% 
+puts YAML::dump(local_assigns)
+pattern = "chickens_and_noodles" if pattern.nil? 
+%>
+<div id="quilt">
+<%= image_tag("quilt_#{pattern}.gif") %>
+</div>
