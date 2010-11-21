@@ -16,27 +16,28 @@ body {
 #menu {
 	width: 160px;
 	border: 1px solid black;
-	display: block;
 	float: left;
+	padding: 0px;
+	height: 110%;
 }
 
 .item {
 	width: inherit;
+	background: url("/images/blue_menu.gif") no-repeat center;
 	height: 60px;
-	background-image: url("/images/blue_menu.gif");
 	text-align: center;
-	display: block;
 }
 
 .item a {
 	text-decoration: none;
 	color: white;
-	border: 1px solid black;
-	margin-top: 45px;
+	vertical-align: middle;
+	padding-top: 10px;
+	display: block;
 }
 
 #content {
-	width: 70%;
+	width: 80%;
 	display: block;
 	float: left;
 	padding: 20px;
@@ -48,4 +49,18 @@ body {
 	display: block;
 	float: left;
 	padding: 20px;
+}
+
+#thumbnails {
+	width: 100%;
+	overflow: scroll;
+	border: 1px solid black;
+}
+
+#thumbnails img {
+	padding: 5px;
+}
+
+#quilt {
+	width: 100%;
 }

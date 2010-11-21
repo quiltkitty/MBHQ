@@ -3,7 +3,7 @@
 	<%= link_to_function(image_tag("thumb_#{name}.gif"),
 	    render(:update) { |page| 
 			page.replace_html("quilt",{:partial => "quilt",:locals => {:pattern => name}})
-			page.visual_effect  :blind_down, "quilt"
+			page.visual_effect  :blind_down,"quilt"
 			page.visual_effect	:highlight,"quilt"
 		})
 	
